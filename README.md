@@ -12,7 +12,7 @@ User Management
  - As an  admin, i want to add a user, so that this new user can perform priviledged operations 
  - As an admin, i want to find a user by Id, so that i can learn the details of this specific user. 
  - As an admin, i want to delete a user, so that this user can no longer perform priviledged operations 
- - As an anonymous user, i want to log in, so that i can perform priviledged operations 
+ - As an anonymous user, i want to log in, so that i can perform priviledged operations (Small)
 
 Wizard Management 
  - As a logged-in user, i want to find all wizards, so that i can learn the details of every wizard 
